@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Turbo Jet activated!!
 
 ![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}
