@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Boop. Beep. Bop. 
+        - Teslacat
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
