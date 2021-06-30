@@ -10,6 +10,7 @@ If you have a question, or need assistance during class, **please create an issu
 ## Give Us Feedback
 
 Please take a moment to complete the class survey at: <https://www.surveymonkey.com/r/M7M9LNL>
+Dewayne was here
 
 ## Scripts for Adding Files
 
